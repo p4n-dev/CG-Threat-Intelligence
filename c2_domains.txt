@@ -38,3 +38,5 @@ polygon-rpc.com
 thisisfalsepozitive.st
 stromrechnung.receiver.st
 receiver.st
+spywarehook.com
+osintownerr-production.up.railway.app
