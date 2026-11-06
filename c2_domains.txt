@@ -40,3 +40,6 @@ stromrechnung.receiver.st
 receiver.st
 spywarehook.com
 osintownerr-production.up.railway.app
+cryptowtf.info
+panel.cryptowtf.info
+damla.sbs
