@@ -43,3 +43,4 @@ osintownerr-production.up.railway.app
 cryptowtf.info
 panel.cryptowtf.info
 damla.sbs
+evilhook.com
